@@ -2,3 +2,5 @@
 ''' import os
  import tensorflow'''    '''This is multi line comment'''
 print("Hello world")
+
+print("Ready to work")
